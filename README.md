@@ -74,5 +74,5 @@ git push origin feature-new-analysis
 # Create a Pull Request (PR)
 ```
 
-## 📜 License
-This project is licensed under the MIT License.
+
+
