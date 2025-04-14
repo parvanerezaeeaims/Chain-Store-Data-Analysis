@@ -48,15 +48,15 @@ streamlit run Homepage.py
 ## 📈 Results & Visualizations
 The analysis produces insights such as:
 - **RFM**
-![Alt text]([./images/RFM.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/RFM.png))
+!([./images/RFM.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/RFM.png))
 - **Apriori**
-![Alt text]([./Images/Apriori.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Apriori.png))
+!([./Images/Apriori.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Apriori.png))
 - **Time base pattern analysis**
-![Alt text]([./images/Time-base-pattern.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Time-base-pattern.png))
+!([./images/Time-base-pattern.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Time-base-pattern.png))
 - **Transaction analysis**
-![Alt text]([./images/Transaction.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Transaction.png))
+!([./images/Transaction.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Transaction.png))
 - **Demand forcasting**
-![Alt text]([./images/demand.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/demand.png))
+!([./images/demand.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/demand.png))
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
