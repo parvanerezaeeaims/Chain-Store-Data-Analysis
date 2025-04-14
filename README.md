@@ -50,7 +50,7 @@ The analysis produces insights such as:
 - **RFM**
 ![Alt text](images/RFM.png)
 - **Apriori**
-![Alt text](images/Apriori.png)
+![Alt text]([images/Apriori.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Apriori.png))
 - **Time base pattern analysis**
 ![Alt text](images/Time-base-pattern.png)
 - **Transaction analysis**
