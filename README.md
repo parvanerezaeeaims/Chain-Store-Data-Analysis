@@ -48,15 +48,15 @@ streamlit run Homepage.py
 ## 📈 Results & Visualizations
 The analysis produces insights such as:
 - **RFM**
-![Alt text](images/RFM.png)
+![Alt text](./images/RFM.png)
 - **Apriori**
-![Alt text]([images/Apriori.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Apriori.png))
+![Alt text](./Images/Apriori.png)
 - **Time base pattern analysis**
-![Alt text](images/Time-base-pattern.png)
+![Alt text](./images/Time-base-pattern.png)
 - **Transaction analysis**
-![Alt text](images/Transaction.png)
+![Alt text](./images/Transaction.png)
 - **Demand forcasting**
-![Alt text](images/demand.png)
+![Alt text](./images/demand.png)
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
