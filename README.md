@@ -55,8 +55,7 @@ The analysis produces insights such as:
 ![./images/Time-base-pattern.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Time-base-pattern.png)
 - **Transaction analysis**
 ![./images/Transaction.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/Transaction.png)
-- **Demand forcasting**
-![./images/demand.png](https://github.com/parvanerezaeeaims/Chain-Store-Data-Analysis/blob/main/Images/demand.png)
+  
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
